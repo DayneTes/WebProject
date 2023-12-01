@@ -102,8 +102,13 @@ hr {
  main, p {padding-left: 1em;
  padding-right: 1em;}
  
+ main form { padding-left: 1em;
+ padding-bottom: 3em;
+ }
+ 
  table {
 	  border-collapse: collapse;
+	  padding: 3em;
  }
  
 th, td {padding: 1em;
@@ -157,7 +162,6 @@ th {font-size: 1.2em;
 	margin: auto;
 	overflow: auto;
 }
-
 .descript {
 	display: -webkit-box;
     max-width: 90%;
